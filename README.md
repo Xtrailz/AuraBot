@@ -5,7 +5,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RFIunknown/AuraBot)
 
-[![Run on Repl.it](https://repl.it/badge/github/RFIunknown/AuraBot)](https://repl.it/github/RFIunknown/AuraBot)
+[![Run on Repl.it](https://repl.it/badge/github/Xtrailz/AuraBot)](https://repl.it/github/Xtrailz/AuraBot)
 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JYYtEWOhbLs7P2xcaihYhU)
 
