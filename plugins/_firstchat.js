@@ -13,7 +13,7 @@ handler.all = async function (m) {
     if (new Date - user.pc < 86400000) return // setiap 24 jam sekali
     await conn.send2ButtonLoc(m.chat, await(await fetch(thumbfoto)).buffer(), `
 *Hi ${name}, ${ucapan()}*
-Saya adalah AuraBot salah satu bot WhatsApp.
+Saya adalah Xtrailz Bot salah satu bot WhatsApp.
 
 *Harap untuk tidak menelpon, meminta save, atau spam dalam penggunaan bot*
 Silahkan baca rules dan mematuhi rules demi kenyamanan kita bersama.
