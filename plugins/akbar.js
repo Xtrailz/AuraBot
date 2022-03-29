@@ -24,7 +24,5 @@ function pickRandom(list) {
 }
 
 const akbar = [
-"Mungkin disini aku menunggu kamu disana candu",
-"Aku disini menunggu dengan kenangan kita bersama kamu disana candu dengan orang baru mu",
-"Oranag gamten ituh typo😎",
+"satirin aja terus",
 ]
