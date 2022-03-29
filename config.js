@@ -29,17 +29,17 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'AuraBot'
-global.author = 'Rifai'
+global.packname = 'XtrailzBot'
+global.author = 'Zian'
 
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© AuraBot'
+global.watermark = '© XtrailzBot'
 global.thumbfoto = 'https://telegra.ph/file/2249d5c5fa9785d2682aa.jpg' 
 global.image = 'https://telegra.ph/file/39bbded9693c9338069fd.jpg'
 
-global.multiplier = 59 // Semakin tinggi, semakin sulit naik level
+global.multiplier = 45 // Semakin tinggi, semakin sulit naik level
 
 let chalk = require('chalk')
 let file = require.resolve(__filename)
